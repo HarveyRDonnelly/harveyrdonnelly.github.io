@@ -9,15 +9,15 @@ last_name: Donnelly
 contact_note: >
   "Email me: donne121@cs.utoronto.edu (research), harvey.donnelly(at)mail.utoronto.ca (connect)"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Student & ML Researcher @ UofT
+  Student & Research Assistant @ UofT
 footer_text: >
-  :P
+  ":P"
 keywords: ml, rl, asr, nlp, machine learning, computational linguistics, computational neuroscience, natural language processing, automatic speech recognition
 lang: en 
 icon: 🍀
 
 url: https://harveyrdonnelly.github.io # the base hostname & protocol for your site
-baseurl: blank # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button

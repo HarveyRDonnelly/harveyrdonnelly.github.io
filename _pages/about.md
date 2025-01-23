@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /about/
-subtitle: "<b>Affilitations:</b> [ <a href='https://www.cs.toronto.edu/compling/'>CL Group</a> ]    [ <a href='https://www.utsc.utoronto.ca/people/niemeier/'>CoNSens Lab</a>" ]
+permalink: 
+subtitle: "<b>Affilitations:</b> [ <a href='https://www.cs.toronto.edu/compling/'>CL Group</a> ]    [ <a href='https://www.utsc.utoronto.ca/people/niemeier/'>CoNSens Lab</a> ]"
 
 profile:
   align: right

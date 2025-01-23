@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://harveyrdonnelly.github.io/about//sitemap.xml
+User-agent: * Disallow: Sitemap: https://harveyrdonnelly.github.io/sitemap.xml

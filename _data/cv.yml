@@ -15,14 +15,13 @@
       institution: University of Toronto, St. George
       year: 2021-2025
       description:
-        - title: <a href="https://future.utoronto.ca/pearson/about/">Lester B. Pearson International Scholar.</a>
-          - Full-ride Merit-based Scholarship for completion of four-year undergraduate degreee. 
+        - "<bold><a href='https://future.utoronto.ca/pearson/about/'>Lester B. Pearson International Scholar:</a></bold> Full-ride Merit-based Scholarship for completion of four-year undergraduate degreee." 
         - Computer Science Specialist, focus in Artificial Intelligence.
         - Cognitive Science Major.
         - title: Relevant Coursework.
           contents:
-            - "<bold><a href='https://www.cs.toronto.edu/~gpenn/csc401/'>CSC401/2511</a>: Natural Language Processing</bold>."
-            - "<bold><a href='https://www.cs.toronto.edu/~niu/csc485/'>CSC485/2501</a>: Natural Language Processing</bold>."
+            - "<bold><a href='https://www.cs.toronto.edu/~gpenn/csc401/'>CSC401/2511:</a></bold> Natural Language Processing."
+            - "<bold><a href='https://www.cs.toronto.edu/~niu/csc485/'>CSC485/2501:</a></bold> Computational Linguistics."
 
 - title: Experience
   type: time_table

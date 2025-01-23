@@ -1,25 +1,26 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: 
+subtitle: Affilitations: <a href='https://www.cs.toronto.edu/compling/'>[ CL Group ]</a> <a href='https://www.utsc.utoronto.ca/people/niemeier/'>[ CoNSens Lab ]</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Student & ML Researcher</p>
+    <p>Toronto, Canada</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a fourth-year undergraduate student at the University of Toronto, studying computer science and cognitive science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At the <a href='https://www.cs.toronto.edu/compling/'>Computational Linguistics Group</a>, I am investigating novel machine learning techniques to predict speech signal-to-noise ratios (SNR) using ASR error, under the supervision of <a href='http://www.cs.toronto.edu/~gpenn/'>Professor Gerald Penn</a>. At the Cognitive Neuroscience & Sensorimotor Integration Lab (<a href='https://www.utsc.utoronto.ca/people/niemeier/'>CoNSens</a>), I am researching deep reinforcement learning models of feature integration in the brain for sensorimotor grasping tasks, under the supervision of <a href='https://www.psych.utoronto.ca/people/directories/all-faculty/matthias-niemeier'>Professor Matthias Niemeier</a>. I am currently interested in researching shared semantic representations between language and vision, and how they relate human and machine cognition.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I like to go on long walks, preferably by the sea. Sometimes I like to make art too.
+
+<b>Research Interests:</b> Computational Linguistics, Natural Language Processing, Deep Reinforcement Learning, Computational Neuroscience, Computer Vision, Automatic Speech Recognition, Semantic Representations

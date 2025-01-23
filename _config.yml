@@ -7,11 +7,11 @@ first_name: Harvey
 middle_name: 
 last_name: Donnelly
 contact_note: >
-  "Email me: donne121@cs.utoronto.edu (research), harvey.donnelly(at)mail.utoronto.ca (connect)"
+  research email: donne121@cs.toronto.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Student & Research Assistant @ UofT
 footer_text: >
-  ":P"
+  🍀
 keywords: ml, rl, asr, nlp, machine learning, computational linguistics, computational neuroscience, natural language processing, automatic speech recognition
 lang: en 
 icon: 🍀

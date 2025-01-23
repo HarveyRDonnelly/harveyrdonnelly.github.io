@@ -7,7 +7,7 @@ first_name: Harvey
 middle_name: 
 last_name: Donnelly
 contact_note: >
-  "Email me: donne121@cs.utoronto.edu (research), harvey.donnelly(at)mail.utoronto.ca (connect)
+  "Email me: donne121@cs.utoronto.edu (research), harvey.donnelly(at)mail.utoronto.ca (connect)"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Student & ML Researcher @ UofT
 footer_text: >

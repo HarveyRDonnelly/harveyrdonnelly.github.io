@@ -10,8 +10,7 @@ contact_note: >
   research email: donne121@cs.toronto.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Student & Research Assistant @ UofT
-footer_text: >
-  🍀
+footer_text: ~
 keywords: ml, rl, asr, nlp, machine learning, computational linguistics, computational neuroscience, natural language processing, automatic speech recognition
 lang: en 
 icon: 🍀
@@ -46,11 +45,11 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
-footer_fixed: true
-search_enabled: true
-socials_in_search: true
-bib_search: true
+navbar_fixed: false
+footer_fixed: false
+search_enabled: false
+socials_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -85,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: harv # blog_name will be displayed in your blog page
+blog_name: Harvey's Blog # blog_name will be displayed in your blog page
 blog_description: some rambling
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -95,7 +94,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -145,19 +144,19 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 

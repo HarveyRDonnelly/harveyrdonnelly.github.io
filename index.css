@@ -21,3 +21,19 @@ body {
 .centered-image img {
     max-width: 100%; /* Ensures the image scales responsively */
   }
+
+  .personal-photo {
+  width: 200px;
+    height: var(--personal_height);
+  object-fit: cover;
+  border: 1px solid #282828;
+  border-radius: 4px;
+}
+
+#aboutme-block-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  padding-right: 30px;
+}
